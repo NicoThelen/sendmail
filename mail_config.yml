@@ -1,0 +1,12 @@
+mailserver_config:
+  mailserver: ""
+  port: 587
+
+mail_config:
+  sender: ""
+  recipient: ""
+  subject: ""
+
+credentials:
+  username: ""
+  password: ""
